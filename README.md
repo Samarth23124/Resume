@@ -20,4 +20,3 @@ I am a passionate Computer Science undergraduate at VIT Bhopal University with a
 - Projects involving full-stack web development and AI-based text classification using BERT.
 - Strong academic background with a CGPA of 9.22 at VIT Bhopal University.
 
-## Repository Structure# Resume
