@@ -1,22 +1,62 @@
-# Samarth Saxena's Resume
+# 📄 Samarth Saxena | Resume
 
-Welcome to my resume repository! This repository contains the LaTeX source code for my professional resume. It is designed for developers, data science enthusiasts, and employers who are interested in my technical background and experience.
+Welcome to the official repository of my resume. This document summarizes my education, skills, experiences, and projects, reflecting my journey as a Computer Science undergraduate passionate about problem-solving, software development, and emerging technologies.
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a passionate Computer Science undergraduate at VIT Bhopal University with a strong interest in Machine Learning, Software Development, and Problem Solving. I aim to build impactful solutions using technology and constantly strive to learn and grow in this ever-evolving tech landscape.
+- 🎓 **B.Tech in Computer Science and Engineering** | VIT Bhopal (2022–2026)
+- 📍 **Location:** India
+- 📫 **Email:** [samarthsaxena205@gmail.com](mailto:samarthsaxena205@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/samarth-saxena-a89b37251/](https://www.linkedin.com/in/samarth-saxena-a89b37251/)
+- 💻 **GitHub:** [github.com/Samarth23124](https://github.com/Samarth23124)
 
-## Technologies & Skills
+---
 
-- **Programming Languages**: Java, C++, Python
-- **Concepts**: OOPs, Data Structures and Algorithms (DSA), Machine Learning, IoT
-- **Tools**: LaTeX, Git, VS Code
-- **Languages**: English, Hindi
+## 📚 Resume Overview
 
-## Resume Highlights
+### 🏫 Education
+- **VIT Bhopal University** — CGPA: **9.08/10**
+- **Yashwant Public School** — 92.8%
+- **Rajeshwar Higher Secondary School** — 93.8%
 
-- Hands-on experience as a Subject Matter Expert in Computer Science and Mathematics.
-- Internship as a Content Writer at Marpu Foundation.
-- Projects involving full-stack web development and AI-based text classification using BERT.
-- Strong academic background with a CGPA of 9.22 at VIT Bhopal University.
+### 💼 Experience
+- **Subject Matter Expert (CS & Mathematics)** at **Paradise EDU Services** (Remote)
+- **Content Writer** at **Marpu Foundation India** (Remote)
 
+### 🚀 Projects
+- **Non-Invasive Blood Oxygen Saturation System** *(Arduino, IoT)*
+- **Textual Fingerprinting using BERT (AI/ML)**
+
+### 🖥️ Skills
+- Languages: **C++, Java**
+- Development: **HTML, CSS, ReactJS, MongoDB**
+- Tools: **Git, GitHub, VS Code**
+
+### 🏆 Achievements
+- **Peak LeetCode Rating:** 1984
+- Core Member: **GFG Club VIT Bhopal**
+- Active contributor in technical and extracurricular domains
+
+### 📜 Certifications
+- Generative AI – IBM
+- Blockchain Essentials – IBM
+
+---
+
+## 📦 How to View/Build
+
+1. Clone the repository or download the `.tex` file.
+2. Compile the LaTeX file using **Overleaf** or a local LaTeX distribution (TeX Live / MikTeX).
+3. View or share the generated **PDF** version.
+
+---
+
+## 📬 Contact
+
+For collaborations, discussions, or opportunities, feel free to reach out via [email](mailto:samarthsaxena205@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samarth-saxena-a89b37251/).
+
+---
+
+> _“Consistency beats intensity.”_
+
+Thank you for visiting!
